@@ -2,25 +2,10 @@
 description: conform-vitepress
 ---
 
-format ให้เข้ากับ vitepress markdown เช่น 
-
-eader Anchors
-Links
-Frontmatter
-GitHub-Style Tables
-Emoji 🎉
-Table of Contents
-Custom Containers
-GitHub-flavored Alerts
-Syntax Highlighting in Code Blocks
-Line Highlighting in Code Blocks
-Focus in Code Blocks
-Colored Diffs in Code Blocks
-Errors and Warnings in Code Blocks
-Line Numbers
-Import Code Snippets
-Code Groups
-Markdown File Inclusion
-Math Equations
-Image Lazy Loading
-Advanced Configuration
+- ถ้ามีลิงค์ภายนอกให้ใส่ลิงค์ภายนอก
+- เขียน [file] หลัง syntax ที่ code block
+- code block ควรมี code group ไหม
+- คือมีอะไรในตารางไหม
+- ให้มีคอมเม้นต์เป็นภาษาไทยใน code
+- ควรมี ::: tip ::: warning :: danger อะไรไหม
+- เขียนให้กระชับ เอาเฉาพะที่สำคัญๆ
