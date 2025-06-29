@@ -8,5 +8,6 @@ trigger: always_on
 - แยก logic ออกจาก template
 - ถ้าควรมี interface ให้มี
 - ถ้าใช้ icon => ใช้จาก iconify json mdi จาก unocss
+- ไม่ใช่ svg
 - ดูใน uno.config.ts ก่อนว่ามีอะไรให้ใช้ไหม ถ้ามีให้ใช้จาก uno.config.ts ก่อน
 - ไม่ต้องมี dark:
